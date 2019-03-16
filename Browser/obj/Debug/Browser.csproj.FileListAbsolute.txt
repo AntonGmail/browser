@@ -1,0 +1,12 @@
+D:\Academy\Graphics Device Interface\VebBrowser\Browser\Browser\bin\Debug\Data\Database1.mdf
+D:\Academy\Graphics Device Interface\VebBrowser\Browser\Browser\bin\Debug\Data\Database1_log.ldf
+D:\Academy\Graphics Device Interface\VebBrowser\Browser\Browser\bin\Debug\Browser.exe.config
+D:\Academy\Graphics Device Interface\VebBrowser\Browser\Browser\bin\Debug\Browser.exe
+D:\Academy\Graphics Device Interface\VebBrowser\Browser\Browser\bin\Debug\Browser.pdb
+D:\Academy\Graphics Device Interface\VebBrowser\Browser\Browser\obj\Debug\Browser.csprojAssemblyReference.cache
+D:\Academy\Graphics Device Interface\VebBrowser\Browser\Browser\obj\Debug\Browser.Form1.resources
+D:\Academy\Graphics Device Interface\VebBrowser\Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+D:\Academy\Graphics Device Interface\VebBrowser\Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.cache
+D:\Academy\Graphics Device Interface\VebBrowser\Browser\Browser\obj\Debug\Browser.csproj.CoreCompileInputs.cache
+D:\Academy\Graphics Device Interface\VebBrowser\Browser\Browser\obj\Debug\Browser.exe
+D:\Academy\Graphics Device Interface\VebBrowser\Browser\Browser\obj\Debug\Browser.pdb

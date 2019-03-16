@@ -49,7 +49,7 @@ namespace Browser
 
         private void textBox1_KeyDown(object sender, KeyEventArgs e)
         {
-            if(e.KeyCode == Keys.Enter)
+            if (e.KeyCode == Keys.Enter)
             {
                 gotoPage();
             }
@@ -75,9 +75,7 @@ namespace Browser
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             object id = (int)comboBox1.SelectedValue;
-
             var res = db.Sites.Where(s => s.categoryid == (int)id).ToList();
-
             listBox1.DataSource = res;
             listBox1.DisplayMember = "name";
             listBox1.ValueMember = "id";
@@ -92,9 +90,9 @@ namespace Browser
             }
             else
             {
-
-            }object id = listBox1.SelectedValue;
-            MessageBox.Show(id.ToString());
+                object id = listBox1.SelectedValue;
+                MessageBox.Show(id.ToString());
+            }
         }
     }
 }
